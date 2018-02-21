@@ -7,7 +7,9 @@ I'll fix this readme later. If login is consistently saying "Proxy Banned" Nike 
 
 Installation: 
 
+```sh
 git clone https://github.com/zruss11/Access-Checker.git
 cd Access-Checker
 npm install
 node index.js
+```
